@@ -1,0 +1,2 @@
+# Predicting-the-critical-temperature-of-a-superconductor
+We estimate a statistical model to predict the superconducting critical temperature based on the features extracted from the superconductor’s chemical formula. The statistical model gives reasonable out-of-sample predictions: ±9.5 K based on root-mean-squared-error. Features extracted based on thermal conductivity, atomic radius, valence, electron affinity, and atomic mass contribute the most to the model’s predictive accuracy.
